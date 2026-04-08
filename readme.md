@@ -182,4 +182,10 @@ If you find our work helpful, please leave us a star and cite our paper. Thank y
   journal={arXiv preprint arXiv:2510.10125},
   year={2025}
 }
+@article{guo2026vlaw,
+  title={Vlaw: Iterative co-improvement of vision-language-action policy and world model},
+  author={Guo, Yanjiang and Lee, Tony and Shi, Lucy Xiaoyang and Chen, Jianyu and Liang, Percy and Finn, Chelsea},
+  journal={arXiv preprint arXiv:2602.12063},
+  year={2026}
+}
 ```
